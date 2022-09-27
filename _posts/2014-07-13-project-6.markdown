@@ -1,6 +1,6 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Botfire
+subtitle: A study on Human-Robot-Interaction in high-risk situation
 layout: default
 modal-id: 6
 date: 2014-07-15

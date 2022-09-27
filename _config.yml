@@ -10,7 +10,7 @@ description: "I am a student of Cognitive Science, always motivated to search an
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: linkedin.com/in/frederik-wollatz
+    url: https://linkedin.com/in/frederik-wollatz
   - title: github
     url: http://github.com/fwollatz
 

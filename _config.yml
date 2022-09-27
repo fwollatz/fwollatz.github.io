@@ -7,24 +7,10 @@ email: frederik.wollatz@web.de
 description: "I am a student of Cognitive Science, always motivated to search and find innovative concepts to work on!"
 
 
-# Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: http://twitter.com/jekyllrb
+    url: linkedin.com/in/frederik-wollatz
   - title: github
     url: http://github.com/fwollatz
 

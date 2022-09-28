@@ -12,13 +12,14 @@
             <div class="col-sm-4">
                 <div class="team-member">
                     <img src="{{ job.pic }}" class="img-responsive img-circle" alt="">
-                    <h4>{{ job.position }}</h4>
+                    <h4>{{ job.company }}</h4>
+                    <h5>{{ job.position }}</h5>
                     <p class="text-muted">{{ job.description }}</p>
                     <ul class="list-inline social-buttons">
                         {% for website in job.website %}
                         <li>
-                            <a href="{{ website }}">
-                                {{ job.company }}
+                            <a href="{{ website.url }}">
+                                <i class="fa fa-globe fa-stack-1x fa-inverse"></i>
                             </a>
                         </li>
                         {% endfor %}

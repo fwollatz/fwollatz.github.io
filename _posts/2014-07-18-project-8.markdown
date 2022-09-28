@@ -1,11 +1,11 @@
 ---
-title: How viral is your tweet?
-subtitle: Twitter virality prediction using NLTK
+title: Escapeling
+subtitle: An english-teaching Telegram-Chatbot
 layout: default
-modal-id: 1
+modal-id: 7
 date: 2014-07-18
-img: HowViralIsYourTweet.png
-thumbnail: HowViralIsYourTweet.png
+img: StarryTuebingen.png
+thumbnail: StarryTuebingen.png
 alt: image-alt
 project-date: October 2021
 client: University of Osnabrück

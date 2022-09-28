@@ -21,18 +21,16 @@ address:
   - line: I DONT WANT YOU TO KNOW
 
 jobs:
-  - job:
-    - company: JuniorUni Wuppertal
-    - pic: https://www.nordisch.info/finnland/finnlands-flagge/
-    - website: https://www.junioruni-wuppertal.de
-    - position: Lecturer, Eventorganizer
-    - description: I did things there. They were quite fun. Lorem Ipsum dolor sit amet.
-  - job:
-    - company: University of Duisburg-Essen
-    - pic: img/about/2.jpg
-    - website: https://www.uni-due.de
-    - position: tutor
-    - description: I did things there. They were quite fun. Lorem Ipsum dolor sit amet.
+  - company: JuniorUni Wuppertal
+    pic: https://www.radiowuppertal.de/externalimages/?source=jpg83/junior_uni_foto_malte_reiter10.jpg&crop=0x0x2100x1313&resize=1280x800&dt=202002031641190
+    website: https://www.junioruni-wuppertal.de
+    position: Lecturer, Eventorganizer
+    description: I did things there. They were quite fun. Lorem Ipsum dolor sit amet.
+  - company: University of Duisburg-Essen
+    pic: img/about/2.jpg
+    website: https://www.uni-due.de
+    position: tutor
+    description: I did things there. They were quite fun. Lorem Ipsum dolor sit amet.
 
 
 # Build settings

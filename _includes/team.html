@@ -15,10 +15,11 @@
                     <h4>{{ job.company }}</h4>
                     <h5>{{ job.position }}</h5>
                     <p class="text-muted">{{ job.description }}</p>
-                    <ul class="list-inline social-buttons">
+                    <ul class="list-inline">
                         {% for website in job.website %}
                         <li>
                             <a href="{{ website.url }}">
+                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
                                 <i class="fa fa-globe fa-stack-1x fa-inverse"></i>
                             </a>
                         </li>

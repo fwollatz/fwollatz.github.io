@@ -20,6 +20,21 @@ address:
   - line: I DONT WANT YOU TO KNOW
   - line: I DONT WANT YOU TO KNOW
 
+jobs:
+  - job:
+    - company: JuniorUni Wuppertal
+    - pic: https://www.nordisch.info/finnland/finnlands-flagge/
+    - website: https://www.junioruni-wuppertal.de
+    - position: Lecturer, Eventorganizer
+    - description: I did things there. They were quite fun. Lorem Ipsum dolor sit amet.
+  - job:
+    - company: University of Duisburg-Essen
+    - pic: img/about/2.jpg
+    - website: https://www.uni-due.de
+    - position: tutor
+    - description: I did things there. They were quite fun. Lorem Ipsum dolor sit amet.
+
+
 # Build settings
 markdown: kramdown
 permalink: pretty

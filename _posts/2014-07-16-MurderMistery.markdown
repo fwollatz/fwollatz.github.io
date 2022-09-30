@@ -2,7 +2,7 @@
 title: Alexa - Murder Mystery
 subtitle: Chatbot-Developement with Alexa
 layout: default
-modal-id: 6
+modal-id: 9
 date: 2014-07-16
 img: MurderMistery-Skill.png
 thumbnail: MurderMistery-Skill.png

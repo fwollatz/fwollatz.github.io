@@ -38,13 +38,13 @@ jobs:
     position: Tutor
     date: 2018-2020
     description: In this job I introduced students to statistical methods, held weekly lectures in front of 20 students and taught them how to use the widely used tools JAMOVI and SPSS.
-- company: German Research Center for Artificial Intelligence
-    pic: https://www.dfki.de/fileadmin/user_upload/DFKI/Medien/Logos/Logos_DFKI/DFKI_Logo.png
-    website: 
-      - url: https://www.dfki.de/web
-    position: Student Worker
-    date: 2022
-    description: In this job I worked in a team to build an autonomus farming-robot using ROS.
+  - company: German Research Center for Artificial Intelligence
+      pic: https://www.dfki.de/fileadmin/user_upload/DFKI/Medien/Logos/Logos_DFKI/DFKI_Logo.png
+      website: 
+        - url: https://www.dfki.de/web
+      position: Student Worker
+      date: 2022
+      description: In this job I worked in a team to build an autonomus farming-robot using ROS.
 
 
 # Build settings

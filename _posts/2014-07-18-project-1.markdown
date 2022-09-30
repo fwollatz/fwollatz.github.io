@@ -2,7 +2,7 @@
 title: How viral is your tweet?
 subtitle: Twitter virality prediction using NLTK
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2014-07-18
 img: HowViralIsYourTweet.png
 thumbnail: HowViralIsYourTweet.png

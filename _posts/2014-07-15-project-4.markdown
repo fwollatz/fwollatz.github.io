@@ -2,7 +2,7 @@
 title: JuniorUni - Gamejam
 subtitle: I organized a game-developement hackathon for teenagers!
 layout: default
-modal-id: 4
+modal-id: 5
 date: 2014-07-15
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png

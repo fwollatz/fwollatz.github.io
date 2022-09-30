@@ -9,7 +9,7 @@ thumbnail: SmartUni.png
 alt: image-alt
 project-date: September 2022
 client: University of Osnabrück
-category: Web Developement, AI
+category: Web Developement, Artificial Intelligence
 description: Matching Users with a perfect student-buddy and automatically plan important events and tasks. This website has been developed using Django and a lot of Databases in the Background.
 Learn more about it in our [GitLab](https://gitlab.gwdg.de/ai-higher-ed/smartuni) or our [Documentation](https://smartuni.pages.gwdg.de/documentation/).
 

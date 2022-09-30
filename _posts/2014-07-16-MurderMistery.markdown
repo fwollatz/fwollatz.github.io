@@ -10,8 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Uni Osnabrück
 category: Web Development
-description: We developed an Alexa-Skill that helps you learn english by solving crimes.
-
-The Code can be found in our [GitHub](https://github.com/InaRe/murdermystery)
+description: We developed an Alexa-Skill that helps you learn english by solving crimes. <br>The Code can be found in our [GitHub](https://github.com/InaRe/murdermystery)
 
 ---

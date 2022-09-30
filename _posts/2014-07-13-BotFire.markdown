@@ -10,9 +10,6 @@ alt: image-alt
 project-date: March 2021
 client: Uni Osnabrück
 category: Robotics, Data Science, Experiment Design, Virtual Reality
-description: In this project we developed a virtual reality environment to check which sort of robot could help users in a high risk situation to evacuate most efficiently.
-We tracked their movement and analyzed the users movement in virtual reality.
-
-Check out our [GitLab](https://gitlab.com/qrno98/HRI_RescueRobot/-/tree/main/documentation) and our [Report](https://gitlab.com/qrno98/HRI_RescueRobot/-/blob/main/documentation/BotFire_Comparing_Visual_vs_Audio_Cues_for_an_Fire_Evacuation_Bot.pdf)
+description: In this project we developed a virtual reality environment to check which sort of robot could help users in a high risk situation to evacuate most efficiently. We tracked their movement and analyzed the users movement in virtual reality. Check out our [GitLab](https://gitlab.com/qrno98/HRI_RescueRobot/-/tree/main/documentation) and our [Report](https://gitlab.com/qrno98/HRI_RescueRobot/-/blob/main/documentation/BotFire_Comparing_Visual_vs_Audio_Cues_for_an_Fire_Evacuation_Bot.pdf)
 
 ---

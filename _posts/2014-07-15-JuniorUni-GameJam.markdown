@@ -10,5 +10,5 @@ alt: image-alt
 project-date: August 2022
 client: JuniorUni Wuppertal
 category: Project Management, Event Planning
-description: Together with a team of 5 other people we organized a Gamejam for 35 teenagers! 
+description: Together with a team of 5 other people we organized a Gamejam for 35 teenagers, including workshops! <br> Read more about this [here](https://junioruni-wuppertal.de/blog/blog-detail/game-jam-spieledesigner-in-action/) (article in german). <br> After the initial success, this is planned to become a annual event.
 ---

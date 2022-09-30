@@ -10,7 +10,6 @@ alt: image-alt
 project-date: Oktober 2021
 client: Uni Osnabrück
 category: Game Developement
-description: We created a fun videogame, that is a mixture of racing games and mirrors edge. 
-You can find our code in [GitLab](https://gitlab.com/veraKl/coolAdvancedUnityProject).
+description: We created a fun videogame, that is a mixture of racing games and mirrors edge. <br> You can find our code in [GitLab](https://gitlab.com/veraKl/coolAdvancedUnityProject).
 
 ---

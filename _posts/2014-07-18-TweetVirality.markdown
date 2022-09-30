@@ -10,8 +10,6 @@ alt: image-alt
 project-date: September 2022
 client: University of Osnabrück
 category: DataScience, Artificial Intelligence
-description: We created a machine learning pipeline to predict if tweets go viral or not.
-
-Check out our [GitHub](https://github.com/fwollatz/MLinPractice)
+description: We created a machine learning pipeline to predict if tweets go viral or not. <br> <br> Check out our [GitHub](https://github.com/fwollatz/MLinPractice)
 
 ---

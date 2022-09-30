@@ -10,10 +10,7 @@ alt: image-alt
 project-date: March 2021
 client: University of Osnabrück
 category: Artificial Intelligence
-description:  We re-implemented the work of [Gatys et al.](https://arxiv.org/abs/1508.06576), showing that, by using a pretrained object detection Convolutional Neural Network (CNN),one can transfer the (art) style of one image onto the content of another image.
-This project has been created using tensorflow 2.4.1.
-
-Find the full code and more information in our [GitHub](https://github.com/fwollatz/IANNWTF-Style-Transfer)
+description:  We re-implemented the work of [Gatys et al.](https://arxiv.org/abs/1508.06576), showing that, by using a pretrained object detection Convolutional Neural Network (CNN),one can transfer the (art) style of one image onto the content of another image. This project has been created using tensorflow 2.4.1.<br> <br> Find the full code and more information in our [GitHub](https://github.com/fwollatz/IANNWTF-Style-Transfer)
 
 ---
 

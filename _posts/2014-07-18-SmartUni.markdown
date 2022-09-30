@@ -4,7 +4,7 @@ subtitle: A website to support remote studying with the help of AI
 layout: default
 modal-id: 7
 date: 2014-07-18
-img: 
+img: SmartUni.png
 thumbnail: SmartUni.png
 alt: image-alt
 project-date: September 2022

@@ -4,7 +4,7 @@ subtitle: My first Unity-Project
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: InvadersFromSpace
+img: InvadersFromSpace.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 project-date: March 2021

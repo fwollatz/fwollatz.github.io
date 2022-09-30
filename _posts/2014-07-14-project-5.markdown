@@ -8,8 +8,8 @@ img: InvadersFromSpace.png
 thumbnail: InvadersFromSpace.png
 alt: image-alt
 project-date: March 2021
-client: Start Bootstrap
+client: Uni Osnabrück
 category: Game Developement
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Together with a few friends we developed a classic space-invader style game using Unity.
 
 ---

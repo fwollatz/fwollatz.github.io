@@ -1,19 +1,19 @@
 ---
-title: Escapeling
-subtitle: An english-teaching Telegram-Chatbot
+title: Art style transfer
+subtitle: We build a Network to draw an image in the style of other artists.
 layout: default
 modal-id: 7
 date: 2014-07-18
 img: StarryTuebingen.png
 thumbnail: StarryTuebingen.png
 alt: image-alt
-project-date: October 2021
+project-date: March 2021
 client: University of Osnabrück
-category: Chatbot-Developement
-description: Here I lead a team of up to 24 students to create a functional chatbot! A special challenge to this project was, that the whole team got exchanged when I joined and we had to understand and extend the  project, without knowing about the old code. 
+category: Artificial Intelligence
+description:  We re-implemented the work of [Gatys et al.](https://arxiv.org/abs/1508.06576), showing that, by using a pretrained object detection Convolutional Neural Network (CNN),one can transfer the (art) style of one image onto the content of another image.
+This project has been created using tensorflow 2.4.1.
+
+Find the full code and more information in our [GitHub](https://github.com/fwollatz/IANNWTF-Style-Transfer)
 
 ---
-Here I lead a team of up to 24 students to create a functional chatbot! A special challenge to this project was, that the whole team got exchanged when I joined and we had to understand and extend the  project, without knowing about the old code.
-This project included extensive documentation and refactoring of unknown code.
 
-You can read more about this project here: <https://alluos.github.io/>

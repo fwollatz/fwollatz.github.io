@@ -7,13 +7,11 @@ date: 2014-07-18
 img: HowViralIsYourTweet.png
 thumbnail: HowViralIsYourTweet.png
 alt: image-alt
-project-date: October 2021
+project-date: September 2022
 client: University of Osnabrück
-category: Chatbot-Developement
-description: Here I lead a team of up to 24 students to create a functional chatbot! A special challenge to this project was, that the whole team got exchanged when I joined and we had to understand and extend the  project, without knowing about the old code. 
+category: DataScience, Artificial Intelligence
+description: We created a machine learning pipeline to predict if tweets go viral or not.
+
+Check out our [GitHub](https://github.com/fwollatz/MLinPractice)
 
 ---
-Here I lead a team of up to 24 students to create a functional chatbot! A special challenge to this project was, that the whole team got exchanged when I joined and we had to understand and extend the  project, without knowing about the old code.
-This project included extensive documentation and refactoring of unknown code.
-
-You can read more about this project here: <https://alluos.github.io/>

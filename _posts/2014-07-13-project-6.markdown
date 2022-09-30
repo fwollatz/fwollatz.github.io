@@ -1,15 +1,18 @@
 ---
 title: Botfire
-subtitle: A study on Human-Robot-Interaction in high-risk situation
+subtitle: A study on Human-Robot-Interaction in high-risk situation using VR
 layout: default
 modal-id: 6
 date: 2014-07-15
 img: BotFire.png
 thumbnail: BotFire.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: March 2021
+client: Uni Osnabrück
+category: Robotics, Data Science, Experiment Design, Virtual Reality
+description: In this project we developed a virtual reality environment to check which sort of robot could help users in a high risk situation to evacuate most efficiently.
+We tracked their movement and analyzed the users movement in virtual reality.
+
+Check out our [GitLab](https://gitlab.com/qrno98/HRI_RescueRobot/-/tree/main/documentation) and our [Report](https://gitlab.com/qrno98/HRI_RescueRobot/-/blob/main/documentation/BotFire_Comparing_Visual_vs_Audio_Cues_for_an_Fire_Evacuation_Bot.pdf)
 
 ---

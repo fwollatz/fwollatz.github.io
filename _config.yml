@@ -22,7 +22,7 @@ address:
 
 jobs:
   - company: JuniorUni Wuppertal
-    pic: https://www.radiowuppertal.de/externalimages/?source=jpg83/junior_uni_foto_malte_reiter10.jpg&crop=0x0x2100x1313&resize=1280x800&dt=202002031641190
+    pic: img/team/JuniorUni-quadrat.jpg
     website: 
       - url: https://www.junioruni-wuppertal.de
       - url: https://junioruni-wuppertal.de/kurs-list/kurs/junior-uni-digital-game-design-wir-entwickeln-ein-eigenes-spiel-1/?tx_course_detailcourse%5Bmodal%5D=1&cHash=6f459f990fee93a412b9ae9252766dd8
@@ -39,7 +39,7 @@ jobs:
     date: 2018-2020
     description: In this job I introduced students to statistical methods, held weekly lectures in front of 20 students and taught them how to use the widely used tools JAMOVI and SPSS.
   - company: German Research Center for Artificial Intelligence
-    pic: https://www.dfki.de/fileadmin/user_upload/DFKI/Medien/Logos/Logos_DFKI/DFKI_Logo.png
+    pic: img/team/DFKI-quadrat.jpg
     website: 
       - url: https://www.dfki.de/web
     position: Student Worker
